@@ -1,0 +1,62 @@
+.right-side {
+    position: absolute; 
+    right: 0;
+    top: 0;
+    width: 250px; 
+    height: 100vh;
+
+    padding: 20px;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1); 
+    z-index: 10; 
+}
+
+
+
+
+
+
+ul {
+    list-style:none;
+}
+.nav-right{
+    margin-left: 30px;
+    width: 81.6px;
+height: 14.1px;
+/* top: 1038px; */
+left: 1542.74px;
+gap: 0px;
+opacity: 0px;
+font-weight:100;
+
+
+}
+.nav-right h3.Genre{
+margin-top: 70px;
+margin-left: 30px;
+font-weight: 600;
+
+}
+.rectangle{
+    position: absolute;  
+      left: 20px;         
+      top: 0;              
+      width: 8px;        
+      height: 100vh;      
+      background-color: #272626; 
+      z-index: -1;   
+  
+  
+  }
+.nav-right   li{
+   
+    padding-top: 10px;
+   padding-bottom: 10px;
+}
+.Genre-Thriller {
+    background-color: #FFA41C;
+    color: aliceblue;
+    border-radius: 10px;
+    width: 60px;
+    padding: 5px;
+    text-align: center;
+}
