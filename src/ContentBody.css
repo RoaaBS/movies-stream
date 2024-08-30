@@ -48,7 +48,7 @@
     align-items: center;
     position: absolute; 
     top: 80px;
-    left:760px; /* Adjusted positioning */
+    left:760px; 
     padding: 10px;
     border-radius: 5px;
     z-index: 2; 
@@ -85,7 +85,7 @@
     margin-top: 10px;
     width: 300px;
     height: 200px;
-    margin-right: 300px;
+    margin-right: 350px;
    
 }
 

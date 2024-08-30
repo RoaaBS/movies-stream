@@ -13,7 +13,7 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 0;
+    padding: 10px 0;
     margin-left: 50px;
 }
 
@@ -26,7 +26,7 @@
 
 .nav-left img {
     border-radius: 50%;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .nav-left i {
@@ -58,7 +58,7 @@
      border-color: #A6A6A636;
      border-style: solid;
      Width:60px;
-     Height:250px;
+     Height:280px;
  }
  .nav-left-bottom .circle{
      background-color: #FFA41C;
