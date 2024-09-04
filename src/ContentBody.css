@@ -179,3 +179,11 @@
     height: 300px;
     border-radius: 20px;
 }
+.content-bottom1 img:hover ,.content-bottom3 img:hover {
+    transform: scale(1.2);
+    z-index: 1;
+  }
+  .content-bottom2 img:hover , .content-left img:hover , .content-right  img:hover{
+    transform: scale(1.2);
+    z-index: 1;
+  }
