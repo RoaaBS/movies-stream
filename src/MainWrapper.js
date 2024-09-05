@@ -24,7 +24,7 @@ const MainWrapper = () => {
         <>
           <Navbar />
           <ContentBody />
-          <div className="content">
+          <div className="sidebar-container">
             <LeftSidebar />
             <RightSidebar />
           </div>
