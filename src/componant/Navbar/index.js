@@ -1,6 +1,6 @@
 // Navbar.js
 import React from 'react';
-import './Navbar.css'; 
+import './index.css'; 
 import '@fortawesome/fontawesome-free/css/all.min.css';
 
 const Navbar = () => {

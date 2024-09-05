@@ -1,11 +1,11 @@
 // App.js
 import React from 'react';
-import BodyContent from './BodyContent';
+import MainWrapper from './MainWrapper';
 
 const App = () => {
     return (
         <div className="app">
-            <BodyContent />
+            <MainWrapper />
             
         </div>
     );

@@ -1,12 +1,12 @@
 .content-body {
     display: flex;
-    flex-direction: column; /* تكديس العناصر رأسياً */
+    flex-direction: column; 
     width: 100%;
 }
 
 .content-body-content {
     display: flex;
-    flex-direction: row; /* ترتيب العناصر أفقياً */
+    flex-direction: row; 
     justify-content: space-between;
     align-items: start;
 }
@@ -94,7 +94,7 @@
    justify-content: start;
    margin-left:250px;
    align-items: center;
-    margin-top: 20px; /* المسافة بين المحتويات */
+    margin-top: 20px; 
     color: #FFFFFF;
 }
 
@@ -128,7 +128,7 @@
 .content-bottom {
     display: flex;
    
-    margin-top: 20px; /* المسافة بين row2 و content-bottom */
+    margin-top: 20px;
 }
 .content-bottom .Shrek{
     width: 180px;
@@ -179,11 +179,22 @@
     height: 300px;
     border-radius: 20px;
 }
-.content-bottom1 img:hover ,.content-bottom3 img:hover {
+.content-bottom1 img:hover {  
+    transform: scale(1.2);
+    z-index: 1;}
+
+    .content-bottom3 img:hover {
     transform: scale(1.2);
     z-index: 1;
   }
-  .content-bottom2 img:hover , .content-left img:hover , .content-right  img:hover{
+
+  .content-bottom2 img:hover {  transform: scale(1.2);
+    z-index: 1;}
+
+  .content-left img:hover {  transform: scale(1.2);
+    z-index: 1;} 
+    
+  .content-right  img:hover{
     transform: scale(1.2);
     z-index: 1;
   }

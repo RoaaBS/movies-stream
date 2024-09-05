@@ -1,10 +1,10 @@
 import React from 'react';
-import './ContentBody.css';
-import img4 from './assets/img/img4.jpeg';
-import img5 from './assets/img/img5.jpeg';
-import img6 from './assets/img/img6.jpeg';
-import img7 from './assets/img/img7.png';
-import img8 from './assets/img/img8.jpeg';
+import '../contentBody/index.css';
+import img4 from '../../assets/img/img4.jpeg';
+import img5 from '../../assets/img/img5.jpeg';
+import img6 from '../../assets/img/img6.jpeg';
+import img7 from '../../assets/img/img7.png';
+import img8 from '../../assets/img/img8.jpeg';
 
 const ContentBody = () => {
   return (

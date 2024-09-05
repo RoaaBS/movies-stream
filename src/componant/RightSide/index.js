@@ -1,7 +1,7 @@
 // RightSide.js
 import React from 'react';
-import './RightSide.css'; // Ensure you have the corresponding CSS file
-import MediaServices from './assets/img/Media Services.png';
+import './index.css'; 
+import MediaServices from '../../assets/img/Media Services.png';
 const RightSidebar = () => {
     return (
         
